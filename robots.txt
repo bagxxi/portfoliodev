@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://gabrielbalbontin.info/sitemap-index.xml
